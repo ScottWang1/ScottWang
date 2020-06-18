@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" score="44" last-seen="1592320492"/>
+    <application id="yelp.desktop" score="32" last-seen="1592316796"/>
+    <application id="firefox.desktop" score="35" last-seen="1592447627"/>
+    <application id="org.gnome.Nautilus.desktop" score="397" last-seen="1592448993"/>
+    <application id="org.gnome.Terminal.desktop" score="17876" last-seen="1592448982"/>
+    <application id="evince.desktop" score="0" last-seen="1592447875"/>
+    <application id="gkbd-keyboard-display.desktop" score="1" last-seen="1592315868"/>
+    <application id="org.gnome.Software.desktop" score="2" last-seen="1592448820"/>
+  </context>
+</application-state>

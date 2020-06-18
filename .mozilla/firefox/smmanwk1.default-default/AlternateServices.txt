@@ -1,0 +1,1 @@
+http:git-scm.com:80:.:	0	18429	http:git-scm.com:80:git-scm.com:443::n:1592321984:h2:y:1592321898:n::https://www.baidu.com|
